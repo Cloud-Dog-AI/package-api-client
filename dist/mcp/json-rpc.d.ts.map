@@ -1,0 +1,1 @@
+{"version":3,"file":"json-rpc.d.ts","sourceRoot":"","sources":["../../src/mcp/json-rpc.ts"],"names":[],"mappings":"AAgBA,OAAO,KAAK,EAAE,cAAc,EAAE,eAAe,EAAE,MAAM,SAAS,CAAC;AAE/D,wBAAgB,mBAAmB,CAAC,MAAM,EAAE,MAAM,EAAE,MAAM,CAAC,EAAE,OAAO,EAAE,EAAE,GAAE,MAAM,GAAG,MAAU,GAAG,cAAc,CAO7G;AAED,wBAAgB,oBAAoB,CAAC,IAAI,EAAE,OAAO,GAAG,eAAe,CAcnE"}
